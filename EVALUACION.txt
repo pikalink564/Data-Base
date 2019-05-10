@@ -1,0 +1,16 @@
+"Evaluación actividades de la segunda sesión."
+
+Ejercicio guiado (librería DB) -> 10
+
+Act. 2 (Codd) -> 11, suuuuper bien amigooo :OO
+
+Prac. 2 (autos DB) -> 11, súper, súper bien Edson :OOOOOO
+
+Prac. 3 (Diccionario autos) -> 9.5, tu diccionario está casi perfecto. El único problema
+				es que tu dices que la mayoría son requeridos, pero en tu
+				base de datos, ,a mayoría pueden ser NULL, para que fueran 
+				todos requeridos, al momento de armar tu tabla debiste ponerlos
+				como NOT NULL. :)
+
+
+Prac. 8 (Normalización) -> 0, no encuentro tu actividad 8. :(
